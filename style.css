@@ -1,0 +1,33 @@
+.backgroundcolor{
+    text-align: center;
+    border-color: rgb(255,0,0);
+    box-shadow:5px 5px 10px;
+}
+body{
+    background-color:blue ;
+}
+p{
+    font-family: 'Francois One', sans-serif;
+   font-family: 'Girassol', cursive;
+   color: white;
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+td{
+    color: white;
+    font-family: 'Baloo Bhai', cursive;
+}
+th{
+    color: white;
+    font-family: 'Baloo Bhai', cursive;
+
+}
+br{
+    color: white;
+}
+form{
+    color: white;
+    font-family: 'Baloo Bhai', cursive;
+}
